@@ -1,16 +1,17 @@
-# mytodoapp
+# My To-Do App 📝
 
-A new Flutter project.
+Welcome to **My To-Do App**, a simple and efficient way to manage your tasks using Flutter!
 
-## Getting Started
+## Features 🚀
 
-This project is a starting point for a Flutter application.
+- **Add Tasks:** Quickly add new tasks to your to-do list.
+- **Mark as Done:** Check off completed tasks and keep track of your progress.
+- **Delete Tasks:** Remove tasks that you no longer need.
+- **Simple and Intuitive:** User-friendly interface for a smooth task management experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Getting Started 🏁
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/dhara-maru/my-to-do-app.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
