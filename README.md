@@ -9,6 +9,11 @@ Welcome to **My To-Do App**, a simple and efficient way to manage your tasks usi
 - **Delete Tasks:** Remove tasks that you no longer need.
 - **Simple and Intuitive:** User-friendly interface for a smooth task management experience.
 
+## Technologies Used 💻
+
+- Flutter 📱
+- Dart 🎯
+
 ## Getting Started 🏁
 
 1. **Clone the Repository:**
