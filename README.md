@@ -18,5 +18,5 @@ Welcome to **My To-Do App**, a simple and efficient way to manage your tasks usi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/dhara-maru/my-to-do-app.git
+   git clone https://github.com/dhara-maru/My-To-Do-App-Flutter.git
 
